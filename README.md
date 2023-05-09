@@ -6,3 +6,5 @@ This project required extensive knowledge of python file input/output, matplotli
 I initially produced the program to be used within a terminal, but I decided it would be more realistic as a tool to be used to have a graphical user interface. Both the terminal code and the GUI application are availble. 
 
 The tkinter library was heavily utilized for the creation of the GUI Application, it enabled me to implement file editting/deletion, as well as an unlimited capacity for file saves, in addition to being a more user friendly software. 
+
+For the most effective practice/use of these programs, allocate the file to an individual folder (each).
